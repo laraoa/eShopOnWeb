@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 6b89044d-2834-4115-a190-93e29f7c9219
-  WEBAPP-NAME: az400-webapp-LARAOA
+  WEBAPP-NAME: az400-webapp-LARAOA2
 
 
 jobs:
